@@ -2,7 +2,8 @@ Vegetable Soup Recipe
 
 
 Ingredients:
- 
+
+ * cubed beef
  * a pumpkin
 
  * five slices of smoked paprika
@@ -13,3 +14,5 @@ Ingredients:
  * four carrots
  * bouillon
 
+
+ * salt

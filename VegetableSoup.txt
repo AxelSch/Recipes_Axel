@@ -12,3 +12,4 @@ Ingredients:
  * four carrots
  * bouillon
  * salt
+ * pepper
